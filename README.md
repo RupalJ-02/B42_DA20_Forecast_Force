@@ -22,10 +22,7 @@ Analyze GitHub Indian Users' Activity – Identify trends in repositories, commi
 
 **Technologies Used**:
 1. Python: For data processing, manipulation, and integration with Google Drive and MySQL.
-2. Pandas: To handle and clean data within Python.
-3. Google Drive API: Used to fetch data files from Google Drive.
-4. MySQL: For database storage and data analysis.
-5. Jupyter Notebook: Used for data cleaning and exploratory data analysis (EDA).
-6. Power BI: For visualization and dashboard creation.
-
+2. MySQL: For database storage and data analysis.
+3. Jupyter Notebook & Google Colaboratory: Used for data cleaning and exploratory data analysis (EDA).
+4. Power BI: For visualization and dashboard creation.
 
